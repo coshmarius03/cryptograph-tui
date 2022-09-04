@@ -17,7 +17,7 @@
 
 #### (In development)
 
-`PgUp / PgDn` - Change graph `[price/vol(BTC)/vol(USDT)`
+`PgUp / PgDn` - Change graph `price / vol(BTC) / vol(USDT)`
 
 ### Commands
 
@@ -37,4 +37,4 @@
 
 `bars <str>` - Add character to bars list (1-7+)
 
-### This is a prototype script and it has some bugs and missing features, the selected coin is BTC USDT
+### This is a prototype script and it has some bugs and missing features, the selected coin is BTC USDT, good luck finding your way through the messy code
